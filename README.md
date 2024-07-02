@@ -3,7 +3,7 @@
 # Welcome to My GitHub Page! 👋
 
 ## About Me
-I'm a recent computer engineering graduate with a passion for learning and exploring various fields. Here's what I'm currently diving into:
+I'm a recent Computer Engineering graduate with a passion for learning and exploring various fields. Here's what I'm currently diving into:
 
 1. **Linear Algebra:** I'm fascinated by the mathematical foundations that underpin many areas of computer science and engineering. I will use linear algebra to
    work on computer graphics and ASCII art. It's also foundational in the fields of machine learning and deep learning.
