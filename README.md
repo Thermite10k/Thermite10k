@@ -8,11 +8,11 @@ I'm a recent computer engineering graduate with a passion for learning and explo
 1. **Linear Algebra:** I'm fascinated by the mathematical foundations that underpin many areas of computer science and engineering. I will use linear algebra to
    work on computer graphics and ASCII art. It's also foundational in the fields of machine learning and deep learning.
 
-3. **C Programming Language:** As a programmer, mastering C is essential. I'm honing my skills by working on projects and exploring its intricacies.
+3. **C Programming Language:** Knowing about computer architecture along with a low level language like C allows me to write super optimized code, that's why I got into C.
 
 4. **Data Processing and ML:** Python is my go-to language for data manipulation and machine learning. Libraries like Pandas and SciPy allow me to analyze data and build predictive models.
 
-5. **Electronics and Digital Logic:** Understanding how circuits work at the fundamental level is crucial. I'm delving into digital logic and exploring microcontrollers.
+5. **Electronics and Digital Logic:** Bringing microcontroller based projects to life requires a level of electronics knowledge, I want to do the right thing, the right way.
 
 ## Projects
 - 🧬 **Game of Life:** Check out my implementation of Conway's Game of Life in C! It's mesmerizing to watch patterns evolve.
